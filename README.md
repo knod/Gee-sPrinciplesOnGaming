@@ -24,7 +24,7 @@ P 4 **Manipulation**:
 * Makes you feel your body is in the game (like leaning when you're trying to turn in the game)
 * Offers powerful tools to involve body and mind in learning
 
-##2. Problem Based/Problem Solving Learning
+##2. Problem-Based/Problem-Solving Learning
 * _Applying/using knowledge to solve problems helps retain facts_
 * _Games are interesting problem spaces_
 * _Get a lot of feedback_
