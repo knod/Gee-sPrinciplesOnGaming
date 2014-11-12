@@ -1,5 +1,4 @@
 #Gee, 13 Principles On Gaming
-=======================
 
 ##1. Empowered Learning
 Principle 1 **Co-design**:
